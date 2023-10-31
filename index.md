@@ -1,4 +1,2 @@
----
-title: Welcome to my blog
----
-
+# Index
+test content
